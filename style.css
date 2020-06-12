@@ -95,20 +95,20 @@ body {
 
 /*BackGround Images*/
 .slide:first-child {
-    background: url('./images/im-1.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/RyRpq9SUwAU/1600x900') no-repeat center center/cover;
 }
 .slide:nth-child(2) {
-    background: url('./images/im-2.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/BeOW_PJjA0w/1600x900') no-repeat center center/cover;
 }
 .slide:nth-child(3) {
-    background: url('./images/im-3.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/TMOeGZw9NY4/1600x900') no-repeat center center/cover;
 }
 .slide:nth-child(4) {
-    background: url('./images/im-4.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/yXpA_eCbtzI/1600x900') no-repeat center center/cover;
 }
 .slide:nth-child(5) {
-    background: url('./images/im-5.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/ULmaQh9Gvbg/1600x900') no-repeat center center/cover;
 }
 .slide:nth-child(6) {
-    background: url('./images/im-6.jpg') no-repeat center center/cover;
+    background: url('https://source.unsplash.com/ggZuL3BTSJU/1600x900') no-repeat center center/cover;
 }
